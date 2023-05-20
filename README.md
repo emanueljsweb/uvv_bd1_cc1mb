@@ -2,7 +2,9 @@
 Este repositório é responsável por armazenar os arquivos relativos aos PSETs aplicados na disciplina de Design e Desenvolvimento de Banco de Dados.
 
 **Aluno:** Emanuel José Silva
+
 **Professor:** Abrantes Araújo Silva Filho
+
 **Monitoria:** Suellen Miranda Amorim
 
 ## O que é um PSET?
