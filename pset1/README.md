@@ -13,7 +13,7 @@ Para implementar esse banco de dados em sua máquina local é bem simples!
 
 ### Pré-requisitos
 - PostgreSQL 15.1 ou superior;
-- Baixar o [Script Global de implementação](../blob/main/pset1/cc1mb_202306323_postgresql.sql).
+- Baixar o [Script Global de implementação](../pset1/cc1mb_202306323_postgresql.sql).
 
 ### Implementação
 1. Baixe o arquivo contendo o Script Global de implementação no PostgreSQL.
