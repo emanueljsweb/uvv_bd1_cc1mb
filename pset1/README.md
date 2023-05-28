@@ -6,6 +6,7 @@ Para esse projeto, iremos replicar e implantar o projeto lógico que simula o ba
 
 - **SQL Power Architect:** O Power Architect foi utilizado para a modelagem do projeto lógico do banco de dados e para gerar a parte inicial do Script SQL de implantação do projeto.
 - **PostgreSQL:** Conhecido como o banco de dados _open source_ mais avançado do mundo, ele foi a escolha para implantarmos o banco de dados das Lojas UVV.
+- **MariaDB Community Server:** Como desafio opcional nesse PSET, criei uma implementação do banco de dados das Lojas UVV para o MariaDB.
 
 ## Conheça o Projeto Lógico do Banco de Dados
 ![Projeto Lógico do Banco de Dados da rede de Lojas UVV](/assets/projeto-logico.jpg)
