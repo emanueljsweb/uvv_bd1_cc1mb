@@ -12,6 +12,6 @@ PSET ou _Problem Set_ é um conjunto de problemas e exercícios baseados nos con
 
 ## Como esse repositório está dividido?
 O diretório principal desse repositório conta com a seguinte estrutura:
-- pset1: Esse diretório armazena os arquivos relativos ao primeiro PSET da disciplina.
-- README.md: Esse arquivo documenta o repositório, explicando sua utilidade.
-- LICENSE: Esse arquivo é a licença do repositório. Todos os arquivos aqui armazenados estão sob a licença MIT.
+- [pset1](/pset1): Esse diretório armazena os arquivos relativos ao primeiro PSET da disciplina.
+- [README.md](/README.md): Esse arquivo documenta o repositório, explicando sua utilidade.
+- [LICENSE](/LICENSE): Esse arquivo é a licença do repositório. Todos os arquivos aqui armazenados estão sob a licença MIT.
