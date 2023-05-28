@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <architect-project version="1.0" appversion="1.0.9">
  <project-name>pset</project-name>
- <print-settings printerName="Microsoft Print to PDF" numCopies="1" zoom="0.4" pageNumbersPrinted="true" orientation="1" paperWidth="612.0" paperHeight="792.0" leftBorder="50.0" rightBorder="50.0" topBorder="50.0" bottomBorder="50.0" />
+ <print-settings printerName="Microsoft Print to PDF" numCopies="1" zoom="0.6" pageNumbersPrinted="false" orientation="0" paperWidth="595.275590551181" paperHeight="841.8897637795276" leftBorder="50.00314960629921" rightBorder="50.00314960629917" topBorder="50.00314960629917" bottomBorder="50.003149606299324" />
  <project-data-sources>
   <data-source id="DS0">
    <property key="Logical" value="PlayPen Database" />
@@ -60,7 +60,7 @@
     <column id="COL15" populated="true" UUID="29166c40-d259-4d98-9730-75f1f6c6ffb4" autoIncrement="false" autoIncrementSequenceName="lojas_latitude_seq" defaultValue="" name="latitude" nullable="1" physicalName="latitude" precision="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="2" userDefinedTypeUUID="115245ce-612c-4d6a-b559-6dd903dd959a" >
      <remarks>Latitude da localidade.</remarks>
     </column>
-    <column id="COL16" populated="true" UUID="27b01a98-9889-4926-8a9f-7acff95f69e8" autoIncrement="false" autoIncrementSequenceName="lojas_longitude_seq" defaultValue="" name="longitude" nullable="1" physicalName="longitude" precision="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="12" userDefinedTypeUUID="831ac2d4-0e65-47ec-a0b7-62b7f6b8760a" >
+    <column id="COL16" populated="true" UUID="27b01a98-9889-4926-8a9f-7acff95f69e8" autoIncrement="false" autoIncrementSequenceName="lojas_longitude_seq" defaultValue="" name="longitude" nullable="1" physicalName="longitude" precision="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="2" userDefinedTypeUUID="115245ce-612c-4d6a-b559-6dd903dd959a" >
      <remarks>Longitude da localidade.</remarks>
     </column>
     <column id="COL17" populated="true" UUID="dbf6fb15-43f0-4292-afce-6159c4f8776c" autoIncrement="false" autoIncrementSequenceName="lojas_logo_seq" defaultValue="" name="logo" nullable="1" physicalName="logo" precision="0" referenceCount="1" scale="0" sourceDataTypeName="UserDefinedSQLType" type="2004" userDefinedTypeUUID="5c50e616-a448-40e1-abcd-5bfc04dcc607" >
@@ -277,7 +277,7 @@
    </relationship>
   </relationships>
  </target-database>
- <ddl-generator type="ca.sqlpower.architect.ddl.PostgresDDLGenerator" allow-connection="false" target-schema="lojas"> </ddl-generator>
+ <ddl-generator type="ca.sqlpower.architect.ddl.PostgresDDLGenerator" allow-connection="true" target-schema="lojas"> </ddl-generator>
  <liquibase-settings useSeparateChangeSets="false" generateId="false" idStart="1"/>
  <create-kettle-job-settings filePath="" jobName="" schemaName="" kettleJoinType="0" savingToFile="true" />
  <play-pen zoom="0.7948717948717949" viewportX="0" viewportY="0" relationship-style="rectilinear" names-displayLogicalNames="true" showPrimaryTag="true" showForeignTag="true" showAlternateTag="true" columnVisibility="ALL" relationshipLabelVisibility="true">
