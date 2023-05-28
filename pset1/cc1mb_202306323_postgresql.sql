@@ -116,7 +116,7 @@ CREATE TABLE lojas.lojas (
                 endereco_web                VARCHAR(100)            ,
                 endereco_fisico             VARCHAR(512)            ,
                 latitude                    NUMERIC                 ,
-                longitude                   VARCHAR                 ,
+                longitude                   NUMERIC                 ,
                 logo                        BYTEA                   ,
                 logo_mime_type              VARCHAR(512)            ,
                 logo_arquivo                VARCHAR(512)            ,
